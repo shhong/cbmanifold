@@ -4,7 +4,7 @@
 
 ## Installation
 
-Currently, the package is not available on PyPI. You can install it by cloning the repository and running `pip install [-e] .` from the root directory.
+Currently, the package is not available on PyPI. You can install it by cloning the repository and running `pip install .` (or `pip install -e .` for the development mode) from the root directory.
 
 
 ## Usage
